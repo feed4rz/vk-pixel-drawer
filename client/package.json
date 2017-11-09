@@ -1,0 +1,23 @@
+{
+  "name": "@vk-pixel-drawer/client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feed4rz/vk-pixel-drawer.git"
+  },
+  "author": "feed4rz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feed4rz/vk-pixel-drawer/issues"
+  },
+  "homepage": "https://github.com/feed4rz/vk-pixel-drawer#readme",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "robotjs": "^0.4.7"
+  }
+}
